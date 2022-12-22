@@ -3,7 +3,7 @@
 
 /**
  * _strchar - concatenates the string pointed to by @sec to
- * the end of the string pointed to by @dest
+ * the end of th string pointed to by @dest
  * @dest: String that will be appended
  * @src: String to be concatenated upon
  *
