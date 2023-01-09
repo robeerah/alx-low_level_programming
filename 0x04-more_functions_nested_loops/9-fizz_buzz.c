@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * main - prints the numbers from 1 to 100 followed by a new line
  * for multiples of 3 print Fizz
@@ -8,8 +7,6 @@
  *
  * Return: return 0
  */
-
-
 int main(void)
 {
 	int n;
@@ -30,7 +27,7 @@ int main(void)
 		}
 		else
 		{
-			printf(" %d", n);
+			printf("%d", n);
 		}
 		if (n != 100)
 		{
