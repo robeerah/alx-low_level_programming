@@ -4,7 +4,7 @@
 
 /**
  * void prototypes()
- * int prototype()
+ * int prototypes()
  * char prototypes()
  */
 
